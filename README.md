@@ -240,4 +240,4 @@ This repository serves as the official landing page for Norton Personal Firewall
 **Get the most recent version of Norton Personal Firewall today!**
 
 ---
-**Last updated:** 2026-09-13 21:53:17 UTC
+**Last updated:** 2026-09-13 23:44:03 UTC
